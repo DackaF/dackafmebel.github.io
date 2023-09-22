@@ -300,7 +300,7 @@ h1.section-title {
 
 .col-main {
   width: auto;
-  max-height: 230px;
+  max-height: 300px;
   overflow: hidden;
   position: relative;
   border-radius: 10px;
@@ -308,6 +308,10 @@ h1.section-title {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.gallery .col-main {
+  max-height: 230px;
 }
 
 .col-main3 {
