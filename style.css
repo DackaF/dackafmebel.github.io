@@ -790,7 +790,7 @@ iframe {
   color: black;
   text-decoration: none;
   transform: translate(2px, -2px);
-  transition: all 0.5s ease;
+  transition: all 0.6s ease;
 }
 
 .footer p {
